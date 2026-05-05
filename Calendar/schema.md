@@ -121,7 +121,7 @@ graph TD
    - 读取当前日记模板（`Calendar/日记模板.md`）
    - 提取周报中的”下周建议”部分
    - 将战略建议转换为可执行的待办事项格式
-   - 在energy: 内容前插入战略建议部分
+   - 在frontmatter 下面插入战略建议部分
    - 在 `Calendar/log.md` 追加记录：
      ```
      ## [2026-04-30] calendar | W17周报战略建议 → Calendar/日记模板.md (v26.52)

@@ -11,10 +11,14 @@
             "id": "fe271917785c18de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -199,18 +203,21 @@
   },
   "active": "fe271917785c18de",
   "lastOpenFiles": [
+    "schema.md",
+    "README.md",
     "Calendar/日记模板.md",
-    "Calendar/习惯.md",
-    "Calendar/Daily/2026-04-27.md",
-    "Calendar/Daily/2026-04-28.md",
-    "Calendar/Daily/2026-04-30.md",
-    "Calendar/Daily/2026-04-29.md",
+    "日记模板.md",
     "Calendar/Daily/2026-05-03.md",
     "Calendar/Daily/2026-05-02.md",
     "Calendar/Daily/2026-05-01.md",
+    "Calendar/Daily/2026-04-30.md",
+    "Calendar/Daily/2026-04-29.md",
+    "Calendar/Daily/2026-04-28.md",
+    "Calendar/Daily/2026-04-27.md",
+    "Calendar/schema.md",
+    "Calendar/习惯.md",
     "2026-04-27.md",
     "Calendar/log.md",
-    "Calendar/schema.md",
     "Calendar/index.md",
     "Calendar/Mental_Models",
     "Calendar/Insights",
