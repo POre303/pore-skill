@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Calendar/日记模板.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "日记模板"
+            }
+          },
+          {
+            "id": "2620576908c32352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/log.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "log"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Calendar/log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "log 的大纲"
             }
           },
           {
@@ -173,7 +189,7 @@
             }
           },
           {
-            "id": "d6ef9e25ab92e52b",
+            "id": "2d64e60f21c543fb",
             "type": "leaf",
             "state": {
               "type": "claudian-view",
@@ -183,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -201,24 +217,34 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "fe271917785c18de",
+  "active": "2620576908c32352",
   "lastOpenFiles": [
-    "schema.md",
-    "README.md",
+    "Calendar/index.md",
+    "Calendar/log.md",
+    "Calendar/Daily/2026-05-04.md",
     "Calendar/日记模板.md",
-    "日记模板.md",
-    "Calendar/Daily/2026-05-03.md",
-    "Calendar/Daily/2026-05-02.md",
-    "Calendar/Daily/2026-05-01.md",
-    "Calendar/Daily/2026-04-30.md",
-    "Calendar/Daily/2026-04-29.md",
-    "Calendar/Daily/2026-04-28.md",
+    "Calendar/Mental_Models/复盘思维.md",
+    "Calendar/人物社交圈/王莹莹.md",
+    "Calendar/Insights/洞察_榜样驱动回路.md",
+    "Calendar/人物社交圈/陈诺.md",
+    "Calendar/人物社交圈/Lily.md",
+    "Calendar/Insights/洞察_跨场景社交优势.md",
+    "Calendar/Insights/洞察_素描瓶颈天赋偏差.md",
+    "Calendar/Mental_Models/坚持思维.md",
+    "Calendar/Mental_Models/问题导向思维.md",
+    "Calendar/Mental_Models/耐心思维.md",
+    "Calendar/Mental_Models/聚焦思维.md",
+    "Calendar/Mental_Models/目标拆解思维.md",
+    "Calendar/人物社交圈/李教授.md",
+    "Calendar/人物社交圈/张雅.md",
+    "Calendar/人物社交圈/张昊.md",
+    "Calendar/人物社交圈/李浩然.md",
+    "Calendar/人物社交圈/王飞宇.md",
+    "Calendar/weekly/2026-W18.md",
     "Calendar/Daily/2026-04-27.md",
     "Calendar/schema.md",
-    "Calendar/习惯.md",
-    "2026-04-27.md",
-    "Calendar/log.md",
-    "Calendar/index.md",
+    "Calendar/Daily/2026-04-29.md",
+    "Calendar/Daily/2026-05-03.md",
     "Calendar/Mental_Models",
     "Calendar/Insights",
     "Calendar/yearly",
@@ -227,7 +253,6 @@
     "Calendar/weekly",
     "Calendar/Daily",
     "Calendar/人物社交圈",
-    "Calendar",
-    "欢迎.md"
+    "Calendar"
   ]
 }
